@@ -5,10 +5,12 @@ header{
     display: flex;
     align-content: space-around;
     width: 30%;
+    border-style: dotted;
 }
 .list{
     display: flex;
     justify-content: space-around;
     flex-wrap: wrap;
     flex-direction: row;
+
 }
